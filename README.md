@@ -17,3 +17,7 @@ Microsoft Excel.</br>
 1.Sort and Filter </br>
 2.SUM, SUMIF,COUNT ,COUNTIF,VLOOKUP,HLOOKUP etc.</br>
 3.Pivot Tables & Charts
+
+Result:
+
+![image](https://user-images.githubusercontent.com/111983642/189495101-3c95af5b-b8af-4723-b2d8-6e0336f6f00b.png)
